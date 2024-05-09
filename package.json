@@ -1,0 +1,25 @@
+{
+  "name": "sueingbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbstractMelon/SueingBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbstractMelon/SueingBot/issues"
+  },
+  "homepage": "https://github.com/AbstractMelon/SueingBot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node.js": "^0.0.1-security",
+    "nodemon": "^3.1.0"
+  }
+}
